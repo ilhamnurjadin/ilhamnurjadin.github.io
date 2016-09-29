@@ -1,0 +1,16 @@
+body {
+	background-color: red;
+}
+
+li {
+	color: green;
+}
+
+#cool-photo {
+	width: 300px;
+}
+
+#right-div {
+	background-color: orange;
+	text-align: right;
+}
