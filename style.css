@@ -10,7 +10,15 @@ li {
 	width: 300px;
 }
 
+#helloskepta {
+	width: 500px;
+}
+
 #right-div {
 	background-color: orange;
+	text-align: left;
+}
+
+#header-div {
 	text-align: left;
 }
